@@ -80,6 +80,7 @@ namespace Class_Çalışması
         static void Main(string[] args)
         {
             Member mert = new Member("Mert", "Türk", 2004, "Game Designer", Member.GenderType.Male, 175);
+            Member ahmet = new Member("Ahmet","Türk",1999,"Game Developer", Member.GenderType.Male,185);
             Member efe = new Member("Efe", "Türk", 2006, "Main Programmer", Member.GenderType.Male, 187);
             Member ravzasu = new Member("Ravza Su", "Türk", 2006, "Art Director", Member.GenderType.Female, 135);
             Member irmak = new Member("Irmak", "Çingen", 2003, "Cook", Member.GenderType.Female, 165);
